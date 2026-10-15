@@ -1,6 +1,22 @@
 {
-  "slug": "abu-nawaf-diagnostic",
-  "url": "https://abu-nawaf-diagnostic-iee6.arcada.app/",
-  "title": "Abu Nawaf Diagnostic",
-  "desc": "أداة تشخيص أبو نواف."
+  "name": "abu-nawaf-diagnostic",
+  "title": "نموذج طلبات/تشخيص ذكي — فريق ابونواف",
+  "category": "مواقع ابونواف",
+  "description": "نموذج تشخيص ذكي لطلب خدمات فريق ابونواف — الأمن السيبراني. ملاحظة أمنية: أي بيانات اعتماد كانت مضمّنة في النسخة الأصلية لم تُنشر هنا ويجب تغييرها.",
+  "liveUrl": "https://abu-nawaf-diagnostic-iee6.arcada.app",
+  "aliases": [],
+  "sourceLinks": [
+    "https://www.designarena.ai/chat/2db71965-8f2c-4cb8-923f-befa927e5dbd"
+  ],
+  "originalTitle": "تشخيص ذكي • فريق ابونواف",
+  "originalDescription": "نموذج تشخيص ذكي لطلب خدمات فريق ابونواف - الأمن السيبراني",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "favicon.svg",
+    "assets/index-F-gs3BNA.js",
+    "assets/index-CFLcFTTT.css",
+    "abunawaf-logo.jpg"
+  ]
 }
