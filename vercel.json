@@ -1,4 +1,10 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false
+  "buildCommand": "",
+  "outputDirectory": ".",
+  "framework": null,
+  "rewrites": [
+    { "source": "/api/admin-auth", "destination": "/api/admin-auth" },
+    { "source": "/api/cases", "destination": "/api/cases" },
+    { "source": "/api/messages", "destination": "/api/messages" }
+  ]
 }
